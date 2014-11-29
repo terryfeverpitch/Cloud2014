@@ -1,0 +1,2 @@
+serviceClass: com.cloud2014.assignment.client.service.AccountService
+path: 12F005A26F146A4AF64A632237EB8829.gwt.rpc
